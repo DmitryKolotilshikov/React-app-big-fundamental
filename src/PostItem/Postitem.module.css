@@ -1,0 +1,19 @@
+.post {
+  border: 3px solid rgb(26, 126, 64);
+  margin: 1rem auto;
+  padding: 1rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1200px;
+  box-sizing: border-box;
+}
+.title {
+  text-align: left;
+  width: 800px;
+}
+
+.btn {
+  width: 400px;
+  text-align: right;
+}

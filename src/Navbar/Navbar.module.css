@@ -1,0 +1,25 @@
+.navbar {
+  width: 100%;
+  background-color: #ccc;
+  line-height: 50px; 
+}
+
+.navbar ul {
+  display: flex;
+  margin: 0 auto;
+  list-style: none;
+}
+
+.navbar button {
+  margin-left: 50px;
+}
+
+.navbar ul li a {
+  text-decoration: none;
+  color: #fff;
+  margin: 0 0.5rem;
+}
+
+.navbar ul li a:hover {
+  color: #000;
+}
